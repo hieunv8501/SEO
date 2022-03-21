@@ -12,8 +12,6 @@
 
 **Trái cây đặc sản BEFRUIT** là website chuyên chia sẻ giới thiệu về các trái cây đặc sản của các vùng miền trên đất nước Việt Nam. Nó được tổng hợp và viết nên bởi sự tìm hiểu chắc chắn và chính xác các thông tin về đặc sản trái cây. Nếu có cơ hội các bạn hãy trải nghiệm nhé. 
 
-<p align="right">(<a href="#top">Lên trên cùng</a>)</p>
-
 ## ✨ Được xây dựng bởi
 
 - HTML, CSS, Javascript
