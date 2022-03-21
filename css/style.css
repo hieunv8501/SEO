@@ -1,0 +1,254 @@
+.logo_1{
+  height: 55px;
+
+}
+
+.logo_2{
+  display: block;
+  margin: auto;
+  width: 35%;
+}
+.logo{
+background-color:beige;
+}
+.mynavbar{
+  padding:5px;
+  /* position:fixed;
+  width: 100%; */
+}
+
+.navbar-nav{
+  font-size: 20px;
+}
+
+.account{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.dropdown-item{
+  font-size: 17px;
+}
+
+/* .dropdown:hover .dropdown-menu {
+  display: block;
+} */
+
+marquee{
+  font-size: 25px;
+
+}
+
+
+.carousel-item img{
+height: 500px;
+background-size: contain;
+border-radius: 50px;
+}
+
+.carousel-item{
+padding: 10px 10%;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon{
+height: 70px;
+background-color: black;
+border-radius: 10px;
+width: 40px;
+} 
+.carousel-control-prev, .carousel-control-next{
+height: fit-content;
+width: fit-content;
+margin: auto;
+}
+.carousel-control-prev{
+margin-left: 5%;
+}
+.carousel-control-next{
+margin-right: 5%;
+}
+.carousel-caption{
+background-color: rgba(0, 0, 0, .3);
+width: fit-content;
+margin: auto;
+border-radius: 10px;
+padding: 1% 2%;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Asap&display=swap");
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: "Asap", sans-serif;
+}
+body {
+background: #aec7e2;
+}
+section {
+min-height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+section:nth-child(1) {
+color: black;
+}
+section:nth-child(2) {
+color: red;
+background: #aec7e2;
+}
+section:nth-child(3) {
+color: black;
+}
+/* second */
+section:nth-child(4) {
+color: red;
+background: #e0ffff;
+}
+section:last-child {
+color: red;
+background: #e0ffff;
+}
+section .container {
+margin: auto;
+}
+section h1.toLeft {
+font-size: 3rem;
+margin-left: 10px;
+font-weight: bold;
+text-align: left;
+}
+section h1.toRight {
+font-size: 3rem;
+margin-right: 10px;
+font-weight: bold;
+text-align: right;
+}
+section h1.toCenter {
+font-size: 3rem;
+margin-left: 10px;
+font-weight: bold;
+text-align: center;
+}
+
+section .container .text-box .xemthem {
+text-decoration: none;
+transform: scale(1.5);
+color: blue;
+}
+section h4 {
+font-size: 20px;
+font-style: italic;
+text-align: center;
+text-transform: none;
+}
+section h6 {
+font-size: 15px;
+font-style: italic;
+text-align: center;
+color: blue;
+text-transform: none;
+}
+
+section .text-container {
+display: flex;
+}
+
+section .text-container .text-box {
+margin: 10px;
+padding: 15px;
+background-color: none;
+text-align: justify;
+}
+section .text-container .text-box-a {
+margin: 10px;
+padding: 10px;
+background: #00c2cb;
+text-align: justify;
+align-items: center;
+}
+section .text-container .text-box-a h3 i {
+font-size: 21px;
+color: yellow;
+}
+section .text-container .text-box-a h3,
+section .text-container .text-box-a p {
+text-align: center;
+color: black;
+}
+
+section .text-container .text-box-a div {
+text-align: center;
+}
+
+section .text-container .text-box-a .btnContactFB {
+text-align: center;
+border: 1px solid blue;
+background-color: white;
+text-decoration: none;
+padding: 2%;
+cursor: pointer;
+}
+
+section .text-container .text-box-a .btnContactFB:hover {
+text-align: center;
+border: 1px solid white;
+color: white;
+background-color: blue;
+text-decoration: none;
+padding: 2%;
+cursor: pointer;
+}
+
+section .text-container .text-box h3 {
+font-size: 30px;
+text-align: center;
+text-transform: uppercase;
+margin-bottom: 30px;
+}
+
+@media (max-width: 900px) {
+section h1,
+section h4 {
+  font-size: 1rem;
+  text-align: center;
+}
+
+section .text-container {
+  flex-direction: column;
+}
+}
+
+.reveal {
+position: relative;
+transform: translateY(150px);
+opacity: 0;
+transition: 1s all ease;
+}
+
+.reveal.active {
+transform: translateY(0);
+opacity: 1;
+}
+
+.gotop {
+text-decoration: none;
+color: blue;
+padding: 5px;
+border: 1px solid blue;
+background-color: #e0ffff;
+border-radius: 10px;
+}
+
+#gotopdiv {
+text-align: right;
+background-color: #e0ffff;
+padding: 10px;
+}
+
+
+
+.text-container img{
+border-radius: 10px;
+background-size: contain;
+}
