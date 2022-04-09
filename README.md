@@ -1,4 +1,4 @@
-<div align="center">Bolaxanh Coffee - Coffee nguyên chất Bolaxanh
+<div>Bolaxanh Coffee - Coffee nguyên chất Bolaxanh
 <a name="top"></a>
 ## 📜 Nội dung chính
 
