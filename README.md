@@ -7,7 +7,7 @@
 - [🔨 Được xây dựng bởi](#-build-with)
 - [📃 Giấy phép](#-license)
 
-## 🎉 Về dự án của chúng tôi #-about-our-project
+## 🎉 Về dự án của chúng tôi <a name="-about-our-project" href="-about-our-project"></>
 
 **Bolaxanh Coffee** Là website chuyên cung cấp các loại nước uống đặc sản địa phương trên đất nước Việt Nam. Nó được tổng hợp và viết nên bởi sự tìm hiểu có chủ đích và chính xác các thông tin về các loại sản phẩm. Nếu có cơ hội các bạn hãy trải nghiệm nhé. 
 
