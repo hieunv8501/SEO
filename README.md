@@ -3,22 +3,22 @@
 ## 📜 Nội dung chính
 
 - [🎉 Về dự án của chúng tôi](#-about-our-project)
-- [✨ Đặc trưng](#-feature)
 - [🔨 Được xây dựng bởi](#-build-with)
+- [✨ Đặc trưng](#-feature)
 - [📃 Giấy phép](#-license)
 
-## 🎉 Về dự án của chúng tôi <a name="-about-our-project" href="-about-our-project"></>
+## 🎉 Về dự án của chúng tôi <div name="-about-our-project"></div>
 
 **Bolaxanh Coffee** Là website chuyên cung cấp các loại nước uống đặc sản địa phương trên đất nước Việt Nam. Nó được tổng hợp và viết nên bởi sự tìm hiểu có chủ đích và chính xác các thông tin về các loại sản phẩm. Nếu có cơ hội các bạn hãy trải nghiệm nhé. 
 
 Các bạn có thể theo dõi website ở tại đây nhé: <a href="http://bolaxanh.xyz">http://bolaxanh.xyz</a>  
 
-## ✨ Được xây dựng và phát triển dựa trên #-build-with
+## ✨ Được xây dựng và phát triển dựa trên <div name="-build-with"></div>
 
 - Wordpress, tạo website miễn phí cho riêng bạn. Link truy cập: https://wordpress.com/
 - Tối ưu hóa công cụ tìm kiếm - Search Engine Optimization. 
 
-## ✨ Đặc trưng #-feature
+## ✨ Đặc trưng <div name="-feature"></div>
 **Bolaxanh Coffee** là website có các đặc điểm chức năng sau:
 
 <h4>- Trang chủ: Giao diện chính của website tổng quan về các loại sản phẩm là nước uống.</h4>
@@ -28,7 +28,7 @@ Các bạn có thể theo dõi website ở tại đây nhé: <a href="http://bol
 <h4>- Trang Giỏ hàng: Trang nơi các sản phẩm được khách hàng đặt mua.</h4>
 <h4>- Trang Thanh toán: Trang thanh toán các đơn hàng.</h4>
 
-## 📃 Giấy phép #-license
+## 📃 Giấy phép <div name="-license"></div>
 
 Cấp phép bởi giấy phép MIT. Xem `LICENSE.txt` để biết thêm chi tiết.
 
