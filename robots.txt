@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: http://traicaydacsan.ihostfull.com/public/sitemap.xml
