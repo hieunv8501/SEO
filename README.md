@@ -11,7 +11,9 @@
 
 **Bolaxanh Coffee** Là website chuyên cung cấp các loại nước uống đặc sản địa phương trên đất nước Việt Nam. Nó được tổng hợp và viết nên bởi sự tìm hiểu có chủ đích và chính xác các thông tin về các loại sản phẩm. Nếu có cơ hội các bạn hãy trải nghiệm nhé. 
 
-Các bạn có thể theo dõi website ở tại đây nhé: <a href="http://bolaxanh.xyz">http://bolaxanh.xyz</a>  
+Các bạn có thể theo dõi website ở tại đây nhé: <a href="http://bolaxanh.xyz">http://bolaxanh.xyz</a> 
+Đặc biệt đang có sự khuyến mãi khi các bạn đặt trực tiếp tại website chính chủ: Mặt hàng trà thanh mát Trà tắc mật ong đang giảm giá khai trương ngay tại đây: 
+ <a href="http://bolaxanh.xyz/san-pham/tra-tac-mat-ong/">Trà tắc mật ong</a> 
 
 ## ✨ Được xây dựng và phát triển dựa trên <div name="-build-with"></div>
 
